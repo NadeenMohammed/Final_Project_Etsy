@@ -19,4 +19,4 @@
 ### SellerOrders ![SellerOrders](https://github.com/NadeenMohammed/Final_Project_Etsy/assets/116906734/12177c9e-33ce-42a7-aaee-c383cab5e478)
 ### SellerDashBoard ![SellerDashBoard](https://github.com/NadeenMohammed/Final_Project_Etsy/assets/116906734/626cfc17-cfb1-428e-9b39-7c75324dbe3e)
 ### Welcome mail ![Welcome mail](https://github.com/NadeenMohammed/Final_Project_Etsy/assets/116906734/d82696f9-be01-412e-bfe1-c14ac20b6180)
-###  order mail ![order mail](https://github.com/NadeenMohammed/Final_Project_Etsy/assets/116906734/1a3c9874-3ef4-4de8-9c33-fe23c3142ebf)
+### order mail ![order mail](https://github.com/NadeenMohammed/Final_Project_Etsy/assets/116906734/1a3c9874-3ef4-4de8-9c33-fe23c3142ebf)
